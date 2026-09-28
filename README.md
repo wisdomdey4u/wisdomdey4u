@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Wisdom 👋
+# Hi, I'm Wisdom 🙃
 
 ### Aspiring Python & Backend Developer
 
