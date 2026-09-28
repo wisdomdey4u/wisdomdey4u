@@ -44,6 +44,7 @@ real problems into working software.
 
 ## Let's connect
 
-**Email:** nowizdey4u@gmail.com
+**Email:** nowizdey4u@gmail.com 
+
 See what I'm building on [GitHub](https://github.com/wisdomdey4u), or visit my
 [portfolio](https://wisdomdey4u.github.io).
