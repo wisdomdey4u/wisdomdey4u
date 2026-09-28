@@ -2,9 +2,9 @@
 
 # Hi, I'm Wisdom 🙃
 
-### Aspiring Python & Backend Developer
+### Aspiring Python & Backend Developer with AI integration
 
-I build practical projects with Python, APIs, and databases—and learn by turning
+I build practical projects with Python, APIs, AI and databases—and learn by turning
 real problems into working software.
 
 [Portfolio](https://wisdomdey4u.github.io) ·
