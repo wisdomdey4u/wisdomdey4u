@@ -17,7 +17,7 @@ real problems into working software.
 ## A little about me
 
 - 🐍 Developing with Python and building a foundation in backend engineering.
-- 🧩 Interested in APIs, data, and reliable database-backed applications.
+- 🧩 Interested in APIs, data, AI and reliable database-backed applications.
 - 📚 Growing my skills through hands-on projects and consistent practice.
 - 🌱 Currently exploring backend engineering, testing, and system design.
 - 🤝 Open to junior Python and backend opportunities.
