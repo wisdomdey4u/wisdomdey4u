@@ -26,8 +26,8 @@ real problems into working software.
 
 | Project | What it does | Built with |
 | --- | --- | --- |
-| [Task Manager](https://github.com/wisdomdey4u/Task-Manager) | A command-line interface that allows users to create, view, mark complete, and delete tasks with persistent JSON file storage. | Python Object-Oriented Programming (OOP) JSON file storage |
-| [Value Bet Finder](https://github.com/wisdomdey4u/value-bet-finder) | Compares football match probabilities from a Poisson/Elo model with market odds; tracks predictions and recalibrates estimates over time. | Python, SQLite, APIs |
+| [Task Manager](https://github.com/wisdomdey4u/Task-Manager) | A command-line interface that allows users to create, view, mark complete, and delete tasks with persistent JSON file storage. | Python, JSON |
+| [Value Bet Finder](https://github.com/wisdomdey4u/value-bet-finder) | Compares football match probabilities from a Poisson/Elo model with market odds; tracks predictions and recalibrates estimates over time. | Python, Pandas, NumPy |
 | [Smart Expense Tracker](https://github.com/wisdomdey4u/smart-expense-tracker) | Records and filters expenses in a command-line application backed by Supabase Postgres. | Python, PostgreSQL, Supabase |
 | [100 Days of Code: Python](https://github.com/wisdomdey4u/100-Days-of-Code-Python) | Coursework and projects from a structured Python programming course. | Python |
 
@@ -39,7 +39,7 @@ real problems into working software.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![JSON](https://shields.io)
+![JSON](https://img.shields.io/badge/JSON-5E5E5E?style=flat-square&logo=json&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
